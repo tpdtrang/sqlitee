@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "228068706574",
+    "firebase_url": "https://fir-firebase-978b3.firebaseio.com",
+    "project_id": "fir-firebase-978b3",
+    "storage_bucket": "fir-firebase-978b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228068706574:android:d61d377560e3d5c3",
+        "android_client_info": {
+          "package_name": "com.example.doantrang.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228068706574-3gl1sjhlgl1debdq6karri0erq08bdd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIRCIv9Tw_5GdJxYziEZ5B5YhvXQLCMsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
